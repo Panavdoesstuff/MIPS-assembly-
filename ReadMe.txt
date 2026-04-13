@@ -1,16 +1,8 @@
-# Assignment 2: MIPS Processor Design & Assembly
-**Course:** EGC 121 - Computer Architecture  
+Course: EGC 121 - Computer Architecture  
 
 ---
 
-## Team Members
-- Panav RG — BC2025069
-- Ananya Singh — BC2025009
-- Karthik Annadurai — IMT2025016
-
----
-
-## Files
+Files
 
 | File | Description |
 |------|-------------|
